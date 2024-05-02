@@ -1,0 +1,74 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1714576186410,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sign In butonu disabled olarak başlıyor",
+          "status": "passed",
+          "title": "Sign In butonu disabled olarak başlıyor",
+          "duration": 20,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Terms seçilir ise buton enabled oluyor",
+          "status": "passed",
+          "title": "Terms seçilir ise buton enabled oluyor",
+          "duration": 43,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Terms'ün seçili olma durumu kaldırılır ise buton tekrar disabled oluyor",
+          "status": "passed",
+          "title": "Terms'ün seçili olma durumu kaldırılır ise buton tekrar disabled oluyor",
+          "duration": 54,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Terms kabul edilmez ise form submit olmuyor",
+          "status": "passed",
+          "title": "Terms kabul edilmez ise form submit olmuyor",
+          "duration": 317,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Form doğru bilgiler ile doldurulunca form submit oluyor",
+          "status": "passed",
+          "title": "Form doğru bilgiler ile doldurulunca form submit oluyor",
+          "duration": 331,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1714577409346,
+      "endTime": 1714577410111,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-rtvxvm/src/__tests__/index.test.jsx"
+    }
+  ]
+}
